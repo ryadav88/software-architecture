@@ -37,7 +37,7 @@ node {
         forceUpdate: false,
         credentialsId: 'dcos-token',
         filename: 'marathon.json',
-        appId: 'nginx-ravi',
+        appId: 'nginx-ryadav88',
         docker: "ryadav88/software-architecture:${userName}-${gitCommit()}".toString()
     )
 }
